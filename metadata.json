@@ -1,0 +1,37 @@
+{
+  "version": "2025-11-13",
+  "trainedAt": "2025-11-13T15:29:02.334Z",
+  "totalDesigns": 7,
+  "accuracy": 0.85,
+  "trainingImages": 90,
+  "designs": {
+    "A098": {
+      "sampleCount": 12,
+      "lastUpdated": "2025-11-13"
+    },
+    "A084": {
+      "sampleCount": 14,
+      "lastUpdated": "2025-11-13"
+    },
+    "A046": {
+      "sampleCount": 17,
+      "lastUpdated": "2025-11-13"
+    },
+    "A019": {
+      "sampleCount": 13,
+      "lastUpdated": "2025-11-13"
+    },
+    "A015": {
+      "sampleCount": 13,
+      "lastUpdated": "2025-11-13"
+    },
+    "A002": {
+      "sampleCount": 9,
+      "lastUpdated": "2025-11-13"
+    },
+    "A001": {
+      "sampleCount": 12,
+      "lastUpdated": "2025-11-13"
+    }
+  }
+}
