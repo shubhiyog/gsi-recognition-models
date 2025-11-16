@@ -1,11 +1,198 @@
 {
   "version": "2025-11-16",
-  "trainedAt": "2025-11-16T11:52:03.801Z",
-  "totalDesigns": 0,
-  "accuracy": 0.85,
-  "trainingImages": 0,
+  "trainedAt": "2025-11-16T11:06:03.044807",
+  "totalDesigns": 46,
+  "accuracy": 0.8493,
+  "trainingImages": 365,
   "augmented": true,
   "augmentationMultiplier": 5,
-  "trainedOn": "Google Colab with edge detection",
-  "designs": {}
+  "grayscale": true,
+  "epochs": 20,
+  "trainedOn": "Google Colab GPU",
+  "designs": {
+    "A001": {
+      "sampleCount": 60,
+      "lastUpdated": "2025-11-16"
+    },
+    "A002": {
+      "sampleCount": 45,
+      "lastUpdated": "2025-11-16"
+    },
+    "A006": {
+      "sampleCount": 25,
+      "lastUpdated": "2025-11-16"
+    },
+    "A010": {
+      "sampleCount": 20,
+      "lastUpdated": "2025-11-16"
+    },
+    "A011": {
+      "sampleCount": 45,
+      "lastUpdated": "2025-11-16"
+    },
+    "A014": {
+      "sampleCount": 20,
+      "lastUpdated": "2025-11-16"
+    },
+    "A015": {
+      "sampleCount": 65,
+      "lastUpdated": "2025-11-16"
+    },
+    "A019": {
+      "sampleCount": 65,
+      "lastUpdated": "2025-11-16"
+    },
+    "A020": {
+      "sampleCount": 70,
+      "lastUpdated": "2025-11-16"
+    },
+    "A025": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A045": {
+      "sampleCount": 75,
+      "lastUpdated": "2025-11-16"
+    },
+    "A046": {
+      "sampleCount": 110,
+      "lastUpdated": "2025-11-16"
+    },
+    "A049": {
+      "sampleCount": 50,
+      "lastUpdated": "2025-11-16"
+    },
+    "A051": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A058": {
+      "sampleCount": 45,
+      "lastUpdated": "2025-11-16"
+    },
+    "A059": {
+      "sampleCount": 20,
+      "lastUpdated": "2025-11-16"
+    },
+    "A063": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A065": {
+      "sampleCount": 25,
+      "lastUpdated": "2025-11-16"
+    },
+    "A066": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A067": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A069": {
+      "sampleCount": 45,
+      "lastUpdated": "2025-11-16"
+    },
+    "A077": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A079": {
+      "sampleCount": 35,
+      "lastUpdated": "2025-11-16"
+    },
+    "A080": {
+      "sampleCount": 50,
+      "lastUpdated": "2025-11-16"
+    },
+    "A081": {
+      "sampleCount": 15,
+      "lastUpdated": "2025-11-16"
+    },
+    "A083": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A084": {
+      "sampleCount": 70,
+      "lastUpdated": "2025-11-16"
+    },
+    "A087": {
+      "sampleCount": 25,
+      "lastUpdated": "2025-11-16"
+    },
+    "A094": {
+      "sampleCount": 20,
+      "lastUpdated": "2025-11-16"
+    },
+    "A097": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A098": {
+      "sampleCount": 60,
+      "lastUpdated": "2025-11-16"
+    },
+    "A100": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A101": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "A103": {
+      "sampleCount": 25,
+      "lastUpdated": "2025-11-16"
+    },
+    "A104": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "B017": {
+      "sampleCount": 25,
+      "lastUpdated": "2025-11-16"
+    },
+    "D001": {
+      "sampleCount": 25,
+      "lastUpdated": "2025-11-16"
+    },
+    "D005": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "D007": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "D010": {
+      "sampleCount": 20,
+      "lastUpdated": "2025-11-16"
+    },
+    "F009": {
+      "sampleCount": 55,
+      "lastUpdated": "2025-11-16"
+    },
+    "F015": {
+      "sampleCount": 30,
+      "lastUpdated": "2025-11-16"
+    },
+    "F017": {
+      "sampleCount": 15,
+      "lastUpdated": "2025-11-16"
+    },
+    "F018": {
+      "sampleCount": 45,
+      "lastUpdated": "2025-11-16"
+    },
+    "G001": {
+      "sampleCount": 75,
+      "lastUpdated": "2025-11-16"
+    },
+    "G002": {
+      "sampleCount": 60,
+      "lastUpdated": "2025-11-16"
+    }
+  }
 }
