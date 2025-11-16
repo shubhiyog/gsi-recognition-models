@@ -1,8 +1,11 @@
 {
-  "version": "2025-11-15",
-  "trainedAt": "2025-11-15T12:32:15.247Z",
+  "version": "2025-11-16",
+  "trainedAt": "2025-11-16T11:52:03.801Z",
   "totalDesigns": 0,
   "accuracy": 0.85,
   "trainingImages": 0,
+  "augmented": true,
+  "augmentationMultiplier": 5,
+  "trainedOn": "Google Colab with edge detection",
   "designs": {}
 }
