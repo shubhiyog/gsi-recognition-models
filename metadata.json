@@ -1,8 +1,8 @@
 {
-  "version": "2025-11-16",
-  "trainedAt": "2025-11-16T11:06:03.044807",
+  "version": "2025-11-17",
+  "trainedAt": "2025-11-17T05:42:49.108038",
   "totalDesigns": 46,
-  "accuracy": 0.8493,
+  "accuracy": 0.7671,
   "trainingImages": 365,
   "augmented": true,
   "augmentationMultiplier": 5,
@@ -12,187 +12,187 @@
   "designs": {
     "A001": {
       "sampleCount": 60,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A002": {
       "sampleCount": 45,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A006": {
       "sampleCount": 25,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A010": {
       "sampleCount": 20,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A011": {
       "sampleCount": 45,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A014": {
       "sampleCount": 20,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A015": {
       "sampleCount": 65,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A019": {
       "sampleCount": 65,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A020": {
       "sampleCount": 70,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A025": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A045": {
       "sampleCount": 75,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A046": {
       "sampleCount": 110,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A049": {
       "sampleCount": 50,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A051": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A058": {
       "sampleCount": 45,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A059": {
       "sampleCount": 20,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A063": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A065": {
       "sampleCount": 25,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A066": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A067": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A069": {
       "sampleCount": 45,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A077": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A079": {
       "sampleCount": 35,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A080": {
       "sampleCount": 50,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A081": {
       "sampleCount": 15,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A083": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A084": {
       "sampleCount": 70,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A087": {
       "sampleCount": 25,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A094": {
       "sampleCount": 20,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A097": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A098": {
       "sampleCount": 60,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A100": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A101": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A103": {
       "sampleCount": 25,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "A104": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "B017": {
       "sampleCount": 25,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "D001": {
       "sampleCount": 25,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "D005": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "D007": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "D010": {
       "sampleCount": 20,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "F009": {
       "sampleCount": 55,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "F015": {
       "sampleCount": 30,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "F017": {
       "sampleCount": 15,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "F018": {
       "sampleCount": 45,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "G001": {
       "sampleCount": 75,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     },
     "G002": {
       "sampleCount": 60,
-      "lastUpdated": "2025-11-16"
+      "lastUpdated": "2025-11-17"
     }
   }
 }
